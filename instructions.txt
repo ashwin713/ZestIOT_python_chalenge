@@ -1,0 +1,13 @@
+The python code parses through the json files within a dictionary and stores the information in a hash table for easier acces.
+The latest snapshots corresponding to each UUID has been stored as well.
+
+The steps to run the python code is as follows :
+
+ Step 1.	Extract all the json files and place it in a directory.
+ 
+ Step 2.	Place the python code in the same directory.
+ 		Ensure the permissions are set so that the python code can be executed.
+ 		
+ Step 3.	Execute the python code : python file.py
+ 
+ Step 4.	The output will be displayed on the terminal.	
